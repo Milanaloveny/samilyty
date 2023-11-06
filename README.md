@@ -1,1 +1,2 @@
 # samilyty
+my testnet firster 
